@@ -8,7 +8,7 @@
 - Python
 - Java
 
-## About me:
+## Fun facts about me:
 - My main hobby is dancing hiphop, and I make choreography for fun.
 - I am into PC building, and I browse PC setups in my spare time.
 - Apex Legends is my current favorite game.
