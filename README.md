@@ -1,6 +1,7 @@
 # John Paolo Hernandez
 - You can call me Jolo, and I am an aspiring Software Engineer. I aim to earn my Bachelor's Degree in Computer Science in 2024.
 - I'm currently learning Machine Learning, Mobile Development, and Web Development.
+- I participate in the ACM club in CSULA as the Web Master.
 - One of my goals is to work for a tech company as a Software Engineer.
 
 ## Programming Languages
