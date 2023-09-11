@@ -4,10 +4,9 @@
 - I participate in the ACM club in CSULA as the Web Master.
 - One of my goals is to work for a tech company as a Software Engineer.
 
-## Programming Languages
-- C++
-- Python
-- Java
+## Technical Skills
+- Web Development: React.js, HTML/CSS, and Firebase Cloud
+- Software Development: C++, Python, Java
 
 ## Fun facts about me:
 - My main hobby is dancing hiphop, and I make choreography for fun.
