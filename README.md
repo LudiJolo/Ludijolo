@@ -3,10 +3,11 @@
 - I am proficient in multiple fields such as IT, Network, Software Development, Cloud Computing, and Machine Learning.
 - Former Lead Web Developer in Association of Computing Machinery at CalStateLA.
 - Former Software Components Lead in LA City: Bureau of Engineering.
+- I'm currently looking to secure an IT/Software Engineer/Web Developer/Cloud Developer position.
 
 ## Technical Skills
 - Web Development: React.js, HTML/CSS/Bootstrap, Django, and Firebase Cloud, Azure, AWS
-- Software Development: C++, Python, Java, GitHub, MySQL, MongoDB
+- Software Development: C++, Python, Java, GitHub, MySQL, MongoDB, Jupyter
 
 ## Fun facts about me:
 - My main hobby is dancing hiphop, and I make choreography for fun.
