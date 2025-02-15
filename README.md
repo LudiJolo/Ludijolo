@@ -1,12 +1,12 @@
 # John Paolo Hernandez
-- You can call me Jolo, and I am an aspiring Software Engineer. I aim to earn my Bachelor's Degree in Computer Science in 2024.
-- I'm currently learning Machine Learning, Mobile Development, and Web Development.
-- I participate in the ACM club in CSULA as the Web Master.
-- One of my goals is to work for a tech company as a Software Engineer.
+- You can call me Jolo, and I am an aspiring Software Engineer. I earned my Bachelor's Degree in Computer Science in 2024 with Cum Laude honors.
+- I am proficient in multiple fields such as IT, Network, Software Development, Cloud Computing, and Machine Learning.
+- Former Lead Web Developer in Association of Computing Machinery at CalStateLA.
+- Former Software Components Lead in LA City: Bureau of Engineering.
 
 ## Technical Skills
-- Web Development: React.js, HTML/CSS, and Firebase Cloud
-- Software Development: C++, Python, Java
+- Web Development: React.js, HTML/CSS/Bootstrap, Django, and Firebase Cloud, Azure, AWS
+- Software Development: C++, Python, Java, GitHub, MySQL, MongoDB
 
 ## Fun facts about me:
 - My main hobby is dancing hiphop, and I make choreography for fun.
