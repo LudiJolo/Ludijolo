@@ -1,6 +1,6 @@
 # John Paolo Hernandez
 - You can call me Jolo, and I am an aspiring Software Engineer. I earned my Bachelor's Degree in Computer Science in 2024 with Cum Laude honors.
-- I am proficient in multiple fields such as IT, Network, Software Development, Cloud Computing, and Machine Learning.
+- I am proficient in multiple fields such as IT, Network, Software Development, Web Development, Cloud Computing, Machine Learning, and PC hardware.
 - Former Lead Web Developer in Association of Computing Machinery at CalStateLA.
 - Former Software Components Lead in LA City: Bureau of Engineering.
 - I'm currently looking to secure an IT/Software Engineer/Web Developer/Cloud Developer position.
